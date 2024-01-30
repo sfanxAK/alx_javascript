@@ -1,7 +1,3 @@
-function add(x, y) {
-  return x + y;
-}
-const result = add(5, 7);
-console.log(result); // Output: 12
-
-
+const add = (num1, num2) => {
+  return num1 + num2;
+};
