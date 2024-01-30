@@ -5,4 +5,4 @@ const myObject = {
 
 console.log(myObject);
 let  newValue = myObject.value + 77;
-console.log(myObject);
+console.log(newValue);
